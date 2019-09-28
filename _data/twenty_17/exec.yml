@@ -1,0 +1,31 @@
+--- 
+- 
+  alt: "Picture of Kate Chamberlain"
+  name: "Kate Chamberlain"
+  position: President
+  thumbnail: Chamberlain_Kate.png
+- 
+  alt: "Picture of Morgan Massino"
+  name: "Morgan Massino"
+  position: "Vice President"
+  thumbnail: morgan.png
+- 
+  alt: "Picture of Isabel De Guzman"
+  name: "Isabel De Guzman"
+  position: Secretary
+  thumbnail: isabel.png
+- 
+  alt: "Picture of Maria Lancia"
+  name: "Maria Lancia"
+  position: Treasurer
+  thumbnail: maria.png
+- 
+  alt: "Picture of Molly Benning"
+  name: "Molly Benning"
+  position: "Membership Educator"
+  thumbnail: molly.png
+- 
+  alt: "Picture of Aubrey Beck"
+  name: "Aubrey Beck"
+  position: "Events Coordinator"
+  thumbnail: aubrey.png

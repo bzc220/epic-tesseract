@@ -1,0 +1,201 @@
+--- 
+- 
+  alt: "Picture of Xi Xi"
+  name: "Xi Xi"
+  class: "Eta Class"
+  thumbnail: Xi_Xi.png
+- 
+  alt: "Picture of Jasmine Banful"
+  name: "Jasmine Banful"
+  class: "Theta Class"
+  thumbnail: Banful_Jasmine.png
+- 
+  alt: "Picture of Krista Wollerman"
+  name: "Krista Wollerman"
+  class: "Theta Class"
+  thumbnail: Wollerman_Krista.png
+- 
+  alt: "Picture of Kate Chamberlain"
+  name: "Kate Chamberlain"
+  class: "Theta Class"
+  thumbnail: Chamberlain_Kate.png
+- 
+  alt: "Picture of Bethany Chen"
+  name: "Bethany Chen"
+  class: "Theta Class"
+  thumbnail: bethany.png
+- 
+  alt: "Picture of Alyssa Shretstha"
+  name: "Alyssa Shretstha"
+  class: "Theta Class"
+  thumbnail: Shrestha_Alyssa.png
+- 
+  alt: "Picture of Nzinga Hendricks"
+  name: "Nzinga Hendricks"
+  class: "Theta Class"
+  thumbnail: nzinga.png
+- 
+  alt: "Picture of Abby Bettenhausen"
+  name: "Abby Bettenhausen"
+  class: "Theta Class"
+  thumbnail: abby.png
+- 
+  alt: "Picture of Jillian Cowles"
+  name: "Jillian Cowles"
+  class: "Theta Class"
+  thumbnail: Cowles_Jillian.png
+-
+  alt: "Picture of Natalie Maroun"
+  name: "Natalie Maroun"
+  class: "Iota Class"
+  thumbnail: natalie.png
+- 
+  alt: "Picture of Kaitlyn Baldizzi"
+  name: "Kaitlyn Baldizzi"
+  class: "Iota Class"
+  thumbnail: Baldizzi_Kaitlyn.png
+- 
+  alt: "Picture of Isabel De Guzman"
+  name: "Isabel De Guzman"
+  class: "Iota Class"
+  thumbnail: isabel.png
+- 
+  alt: "Picture of Francesca Brown"
+  name: "Francesca Brown"
+  class: "Iota Class"
+  thumbnail: francesca.png
+- 
+  alt: "Picture of Aubrey Beck"
+  name: "Aubrey Beck"
+  class: "Iota Class"
+  thumbnail: aubrey.png
+- 
+  alt: "Picture of Adele Hancock"
+  name: "Adele Hancock"
+  class: "Iota Class"
+  thumbnail: adele.png
+- 
+  alt: "Picture of Carolyn Wang"
+  name: "Carolyn Wang"
+  class: "Iota Class"
+  thumbnail: carolynw.png
+- 
+  alt: "Picture of Sydney Wisniewski"
+  name: "Sydney Wisniewski"
+  class: "Iota Class"
+  thumbnail: Sydney.png
+- 
+  alt: "Picture of Samina Forbath"
+  name: "Samina Forbath"
+  class: "Iota Class"
+  thumbnail: samina.png
+- 
+  alt: "Picture of Georgia O'Connor"
+  name: "Georgia O'Connor"
+  class: "Iota Class"
+  thumbnail: Georgia.png
+- 
+  alt: "Picture of Jessica Osgoodby"
+  name: "Jessica Osgoodby"
+  class: "Iota Class"
+  thumbnail: Jess.png
+- 
+  alt: "Picture of Isabella Romano"
+  name: "Isabella Romano"
+  class: "Iota Class"
+  thumbnail: Isabella.png
+- 
+  alt: "Picture of Jenna Catalano"
+  name: "Jenna Catalano"
+  class: "Kappa Class"
+  thumbnail: jenna.png
+- 
+  alt: "Picture of Molly Benning"
+  name: "Molly Benning"
+  class: "Kappa Class"
+  thumbnail: molly.png
+- 
+  alt: "Picture of Laura Ott" 
+  name: "Laura Ott"
+  class: "Kappa Class"
+  thumbnail: laura.png
+- 
+  alt: "Picture of Dana Baker-Tubbs"
+  name: "Dana Baker-Tubbs"
+  class: "Kappa Class"
+  thumbnail: dana.png
+- 
+  alt: "Picture of Kyra Dimaranan"
+  name: "Kyra Dimaranan"
+  class: "Kappa Class"
+  thumbnail: kyra.png
+- 
+  alt: "Picture of Suyeon Hong"
+  name: "Suyeon Hong"
+  class: "Kappa Class"
+  thumbnail: suyeon.png
+- 
+  alt: "Picture of Morgan Massino"
+  name: "Morgan Massino"
+  class: "Kappa Class"
+  thumbnail: morgan.png
+-  
+  alt: "Picture of Maria Lancia"
+  name: "Maria Lancia"
+  class: "Kappa Class"
+  thumbnail: maria.png
+- 
+  alt: "Picture of Linh Pham"
+  name: "Linh Pham"
+  class: "Kappa Class"
+  thumbnail: Linh.png
+- 
+  alt: "Picture of Shruthi Raja"
+  name: "Shruthi Raja"
+  class: "Kappa Class"
+  thumbnail: TBD.png
+- 
+  alt: "Picture of Julia Zak"
+  name: "Julia Zak"
+  class: "Lambda Class"
+  thumbnail: julia.png
+- 
+  alt: "Picture of Trinity Lee"
+  name: "Trinity Lee"
+  class: "Lambda Class"
+  thumbnail: trinity.png
+- 
+  alt: "Picture of Ngan Trang"
+  name: "Ngan Trang"
+  class: "Lambda Class"
+  thumbnail: ngan.png
+- 
+  alt: "Picture of Zhen Lin"
+  name: "Zhen Lin"
+  class: "Lambda Class"
+  thumbnail: zhen.png
+- 
+  alt: "Picture of Jel Kwecharoan"
+  name: "Jel Kwecharoan"
+  class: "Lambda Class"
+  thumbnail: jel.png
+- 
+  alt: "Picture of Cindy Xu"
+  name: "Cindy Xu"
+  class: "Lambda Class"
+  thumbnail: cindy.png
+- 
+  alt: "Picture of Carolyn David"
+  name: "Carolyn David"
+  class: "Lambda Class"
+  thumbnail: carolynd.png
+- 
+  alt: "Picture of Nicole ElChaar"
+  name: "Nicole ElChaar"
+  class: "Lambda Class"
+  thumbnail: Nicole.png
+- 
+  alt: "Picture of Mia Stevens"
+  name: "Mia Stevens"
+  class: "Lambda Class"
+  thumbnail: mia.png
